@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Jeongmani(Lee Jeongmin)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 🔥LEE JEONG MIN🔥
 
-<!---
-Jeongmani/Jeongmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-jeongmin&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=e99min2)](https://solved.ac/e99min2/)
